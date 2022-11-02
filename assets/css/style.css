@@ -1,0 +1,8 @@
+ul.square {
+  list-style-type: square;
+}
+
+ul.naast {
+  list-style-type: none;
+  display: inline-flex;
+}
